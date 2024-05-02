@@ -1,3 +1,5 @@
 def add(a,b):
     return a+b
-print(add(4,5))
+a=32
+b=45
+print(add(a,b))
